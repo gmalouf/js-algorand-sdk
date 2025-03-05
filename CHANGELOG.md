@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## v3.3.3 - 2025-03-05
+
+<!-- Release notes generated using configuration in .github/release.yml at sdk-release-updates-testing -->
+### New Contributors
+
+* @github-actions made their first contribution in https://github.com/gmalouf/js-algorand-sdk/pull/2
+
+**Full Changelog**: https://github.com/gmalouf/js-algorand-sdk/compare/v3.3.2...v3.3.3
+
 ## v3.3.2 - 2025-03-05
 
 <!-- Release notes generated using configuration in .github/release.yml at sdk-release-updates-testing -->
