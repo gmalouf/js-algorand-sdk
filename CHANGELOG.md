@@ -1,3 +1,7 @@
+# v3.4.0
+
+null
+
 # v3.3.0
 
 <!-- Release notes generated using configuration in .github/release.yml at release/v3.3.0 -->
